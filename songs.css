@@ -1,0 +1,215 @@
+    @font-face {
+	font-family: 'Smeshfont'; 
+	src: local('Smeshfont'),
+		url(./ttf/ofont.ru_Smeshariki.ttf); 
+}
+@font-face {
+    font-family: 'AmaticSC';
+    src: local('AmaticSC') , 
+        url(./ttf/AmaticSC-Bold.ttf);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#main {
+    width: 1728px;
+    height: 1118px;
+    background-color: #3FAAE2;
+    position: absolute;
+}
+#main img {
+    position: relative;
+    position: absolute;
+    top: 138px;
+    left: 171px;
+}
+#top1 img {
+    position: relative;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#Smeshariki img {
+    position: relative;
+    position: absolute;
+    top: 0px;
+    left: 16.1px;
+}
+#Losyash img {
+    position: relative;
+    position: absolute;
+    top: 8px;
+    left: 601px;
+}
+#Losyash h1{
+    position: relative;
+    position: absolute;
+    top: -4px;
+    left: 818.99px;
+    width: 310.01px;
+    height: 79px;
+    font-family: 'AmaticSC';
+    font-size: 35px;
+}
+#Krosh img {
+    position: relative;
+    position: absolute;
+    top: 8px;
+    left: 1233px;
+}
+#Krosh h1{
+    position: relative;
+    position: absolute;
+    top: -5px;
+    left: 1285px;
+    width: 314px;
+    height: 119.94px;
+    transform: rotate(-2.11deg);
+    font-family: 'AmaticSC';
+    font-size: 30px;
+}
+#sidebar img{
+    position: relative;
+    position: absolute;
+    top: 198px;
+    left: 0px;
+}
+#kateg{
+    position: relative;
+    position: absolute;
+    top: 225px;
+    left: 18px;
+    font-family: 'Smeshfont';
+    font-size: 90px;
+}
+#a1{
+    position: relative;
+    position: absolute;
+    top: 340px;
+    left: 18px;
+    font-family: 'Smeshfont';
+    font-size: 90px;
+    
+}
+#a2{
+    position: relative;
+    position: absolute;
+    top: 438px;
+    left: 18px;
+    font-family: 'Smeshfont';
+    font-size: 90px;
+    
+}
+#a3{
+    position: relative;
+    position: absolute;
+    top: 539px;
+    left: 18px;
+    font-family: 'Smeshfont';
+    font-size: 90px;
+    
+}
+#a4{
+    position: relative;
+    position: absolute;
+    top: 635px;
+    left: 18px;
+    font-family: 'Smeshfont';
+    font-size: 90px;
+    
+}
+#a5{
+    position: relative;
+    position: absolute;
+    top: 738px;
+    left: 18px;
+    font-family: 'Smeshfont';
+    font-size: 90px;
+    
+}
+#a6{
+    position: relative;
+    position: absolute;
+    top: 836px;
+    left: 18px;
+    font-family: 'Smeshfont';
+    font-size: 90px;
+}
+#a7 img {
+    width: 1004px;
+    top: 689px;
+    background-color: #D9D9D9;
+    position: relative;
+    position: absolute;
+    top: 263px;
+    left: 565px;
+}
+#a11 img{
+    position: relative;
+    position: absolute;
+    top: 538.8px;
+    left: 395px;
+}
+#song1 {
+    width: 300px;
+    height: 350px;
+    background-color: #286686;
+    position: relative;
+    position: absolute;
+    top: 296px;
+    left: 619px;
+    border-radius: 80px;
+
+}
+#song1 img{
+    width: 270px;
+    height: 145px;
+    position: relative;
+    position: absolute;
+    top: 61px;
+    left: 15px;
+    right: 15px;
+    border-radius: 10px;
+}
+#song1 h1{
+    width: 270px;
+    height: 20px;
+    position: relative;
+    position: absolute;
+    top: 162px;
+    left: 20px;
+    font-family: 'Smeshfont';
+    font-size: 50px;
+}
+#song1 h2{
+    width: 270px;
+    height: 20px;
+    position: relative;
+    position: absolute;
+    top: 192px;
+    left: 100px;
+    font-family: 'Smeshfont';
+    font-size: 50px;
+}
+#footer #a8 {
+    width: 1728px;
+    height: 166px;
+    background-color: #286686;
+    position: relative;
+    position: absolute;
+    top: 952px;
+    left: 0px;
+}
+#footer #a9 a img{
+    position: relative;
+    position: absolute;
+    top: 10px;
+    left: 488px;
+}
+#footer #a10 a img{
+    position: relative;
+    position: absolute;
+    top: -10px;
+    left: 969px;
+}
